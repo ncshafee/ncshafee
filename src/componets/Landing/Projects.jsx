@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import keyroute from "../../assets/projects1.png"
+import keyroute from "../../assets/Projects1.png"
 import careplus from "../../assets/careplus.png"
 import coffeelab from "../../assets/Coffeelab.png"
 import { Link } from 'react-router-dom';
