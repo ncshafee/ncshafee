@@ -30,7 +30,7 @@ function Home() {
       <ExperiencePage></ExperiencePage>
       <Education></Education>
       <Skill></Skill>
-      <div style={{ height: '500px', position: 'relative', overflow: 'hidden', background: "var(--color-surface)"}}>
+      <div style={{ height: '500px', position: 'relative', overflow: 'hidden'}}>
         <ImageTrail
 
           items={[
