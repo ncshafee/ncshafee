@@ -18,7 +18,7 @@ import image5 from "../assets/shafee2.jpg"
 import image6 from "../assets/portfolio5.jpg"
 import image7 from "../assets/portfolio7.jpg"
 import image8 from "../assets/chat gbt.jpg"
-import AboutPage from '../componets/Landing/about'
+import AboutPage from '../componets/Landing/About'
 function Home() {
   return (
     <div className="theme-surface transition-colors duration-300">
