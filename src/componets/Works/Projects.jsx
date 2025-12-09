@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import SegmentedButton from './Button';
-import keyroute from "../../assets/projects1.png";
+import keyroute from "../../assets/Projects1.png";
 import careplus from "../../assets/careplus.png";
 import coffeelab from "../../assets/Coffeelab.png";
 import keylogo from "../../assets/Keyroute logo.png";
